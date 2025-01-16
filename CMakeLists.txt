@@ -3,4 +3,7 @@ project(dsa_cpp)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(dsa_cpp main.cpp)
+add_executable(
+        dsa_cpp
+        LinkedList/LinkedList.cpp
+)

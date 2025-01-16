@@ -1,0 +1,9 @@
+# ninja log v6
+2	325	7587364751357929	CMakeFiles/dsa_cpp.dir/main.cpp.obj	29f0cff1edaa5090
+328	463	7587364754624071	dsa_cpp.exe	5a74aed69b807ef8
+2	194	7587399591665658	build.ninja	5ccb2826254b1a69
+1	326	7587385747753875	CMakeFiles/dsa_cpp.dir/LinkedList/LinkedList.cpp.obj	4b7e71828c3a0e8
+2	185	7587399591665658	build.ninja	5ccb2826254b1a69
+4	313	7587399591852032	CMakeFiles/dsa_cpp.dir/LinkedList/LinkedList.cpp.obj	4b7e71828c3a0e8
+3	316	7587399993769560	CMakeFiles/dsa_cpp.dir/LinkedList/LinkedList.cpp.obj	4b7e71828c3a0e8
+317	387	7587399996904495	dsa_cpp.exe	3e6e76e3b9989b16
